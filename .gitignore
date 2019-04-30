@@ -4,7 +4,14 @@
 /node_modules
 /.pnp
 .pnp.js
-/.vscode
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
 
 # testing
 /coverage
